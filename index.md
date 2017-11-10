@@ -1,6 +1,7 @@
 ## Welcome to my Github Page
 
-Due to limitations on Jekyll implementation on Github, I moved my blog. [Please click here to go to my blog](http://www.slv.free.fr/blog).
+[My projects webpage](http://www.slv.free.fr/projects)
+[Blog](http://www.slv.free.fr/blog)
 
 ### Contact
 
